@@ -1,9 +1,9 @@
 # PERSONAL-PORTFOLIO-WEBPAGE
 
 
-this are my portfolio design by me to showcase my skills basically designing skills the creative coding potential 
+This are my portfolio design by me to showcase my skills basically designing skills the creative coding potential 
 
-all of them are made in different pattern to showcase diverity of framworks used in so many distinct ways 
+All of them are made in different pattern to showcase diverity of framworks used in so many distinct ways 
 
 
 webpage - just a start portfolio to enter into the world of coding with simple structure and clear code 
